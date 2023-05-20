@@ -1,0 +1,48 @@
+* {
+    margin: 0px;
+}
+
+.link {
+    padding-left: 4px;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+a {
+    margin: 0 0 0 4px;
+}
+
+a:link {
+    color: #31353bad;
+      text-decoration: none;
+}
+
+.child-div {
+    height: 32px;
+    width: auto;
+    display: flex;
+    background-color: #f3f4f5;
+    color: #31353b;
+    padding: 0px 32px;  
+    justify-content: space-between;
+    font-size: 12px;
+    align-items: center;
+}
+
+.parent-div {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px: 32px;
+    font-size: 50px: !important;
+    background: #F3F4F5;
+}
+
+.icon {
+    display: flex;
+    align-items: center;
+    padding: 0px 10px;
+    font-size: 12px;
+}
+   
